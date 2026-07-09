@@ -1,0 +1,16 @@
+[project]
+name = "kannch"
+version = "0.1.0"
+description = "国会会議録 メタデータ分析パイプライン (Kokkai NDL API)"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2.0",
+    "matplotlib>=3.9.0",
+    "numpy>=1.26.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "jupyter>=1.0.0",
+    "ipykernel>=6.29.0",
+]
