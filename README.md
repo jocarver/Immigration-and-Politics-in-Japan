@@ -10,7 +10,7 @@
 *(Add more members as needed)*
 
 ## Youtube Video Link
-- Part I:
+- Part I: https://youtu.be/W7n_9-Hr77w
 - Part II: https://youtu.be/18PJf5sQ1_8
 
 ## ❓ Research Question & 🎯 Hypothesis
