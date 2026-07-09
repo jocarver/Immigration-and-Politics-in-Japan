@@ -2,7 +2,6 @@
 
 ## 👥 Team Members
 
-- Christie Thomson (@christie-thomson) - Role/Responsibility
 - Joseph Carver (@jocarver) - Role/Responsibility
 - Cao Han (@kannch8765) - Role/Responsibility
 - Aoto Sato (@uooooo) - Role/Responsibility
