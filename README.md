@@ -114,7 +114,7 @@ project/
 
 | Member | Tasks |
 |--------|-------|
-| Name   | Description of contributions |
+| Joe Carver   | Research question and hypothesis design, data collection and analysis related to final_presentation_part_1 |
 | Name   | Description of contributions |
 
 ## 🔗 References
